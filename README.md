@@ -1,4 +1,4 @@
-## The Discovery Of Hand Washing
+# The Discovery Of Hand Washing
 Usefulness Of Hand washing discovered by Dr. Semmelweis
 
 Everyone sees the need for the hand-washing because of the knowledge of the existence of bacteria, but in an era where bacteria had not been discovered how did they survive?
@@ -11,5 +11,5 @@ A basic line graph displayed showed the trend in death and the periodical time i
 
 With the line graphs the effect of handwashing can easily be depicted with the before and after scenarios of which there is  a massive difference in death rate after instructing people to wash hands.
 
-# Not all heros are recognized in the very end. 
+## Not all heros are recognized in the very end. 
 After the wonderful change and save in lives Dr. Semmerlweis theory was not accepted even as there was no candid explanation of the relationship between hand-washing and saving of lives due to the fact that bacteria had not been discovered and there was no valuable proof as to the effect of handwashing. 
