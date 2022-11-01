@@ -9,3 +9,5 @@ The jupyter notebook file in this repository contains a comprehensive and extens
 
 A basic line graph displayed showed the trend in death and the periodical time interval of the range in death scenarios. Python pandas library makes it very easy to work with date_time values and use them for data analysis
 
+With the line graphs the effect of handwashing can easily be depicted with the before and after scenarios of which there is  a massive difference in death rate after instructing people to wash hands.
+
